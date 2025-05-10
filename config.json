@@ -1,5 +1,5 @@
 {
-  "bind": "0.0.0.1:7860",
+  "bind": "0.0.0.0:7860",
   "timeout": 600,
   "proxy_url": "",
   "real_logout": false,
