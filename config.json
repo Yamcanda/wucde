@@ -9,6 +9,6 @@
   "openai_api_key": "sk-xxx",
   "moderation_model": "text-moderation-latest",
   "moderation_enabled": false,
-  "signup_enabled": false,
-  "show_session_key": false
+  "signup_enabled": true,
+  "show_session_key": true
 }
