@@ -7,7 +7,8 @@
   "cookie_secret": "1234567890abcdefghijklmnopqrstuv",
   "openai_base_url": "https://api.openai.com/v1",
   "openai_api_key": "sk-xxx",
-  "moderation_model": "omni-moderation-latest",
+  "moderation_model": "text-moderation-latest",
   "moderation_enabled": false,
-  "signup_enabled": false
+  "signup_enabled": false,
+  "show_session_key": false
 }
